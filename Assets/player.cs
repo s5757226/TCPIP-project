@@ -8,8 +8,8 @@ public class pos_to_mat : MonoBehaviour
 {
     static float AppendRatio = 1f;
     Vector3 pos;
-    float append_speed=1;
-    public float changeratio = 1.01f;
+    float append_speed=1;                       //123
+    public float changeratio = 1.01f;           //abc
     public float maxchangeratio = 3;
     public float append_speed_speed = 0.001f;
     public float player_speed = 5;
